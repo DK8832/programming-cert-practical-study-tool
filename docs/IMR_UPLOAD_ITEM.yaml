@@ -1,0 +1,34 @@
+IMR_UPLOAD_ITEM:
+  title: "프로그래밍기능사 작업형 대비 50문제 웹 학습도구 제작"
+  description: "SQL·Python·Java·Linux 자체 구성 50문제를 90분 모의시험과 즉시 채점으로 학습하고, 자동 저장·영역별 분석·약점보정·CSV/JSON/인쇄 결과 출력을 지원하는 설치 없는 웹 도구."
+  type: "Editor"
+  group: "프로그래밍"
+  visibility: "공개"
+  body_html: "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\projects\\programming-cert-practical-study-tool\\docs\\IMR_BODY.html"
+  body_plain_text: "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\projects\\programming-cert-practical-study-tool\\docs\\IMR_PORTFOLIO.md"
+  thumbnail_path: "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\output\\images\\CODE90_thumbnail.png"
+  primary_document_path: null
+  attachment_paths:
+    - "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\output\\packages\\programming-cert-practical-study-tool.zip"
+    - "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\projects\\programming-cert-practical-study-tool\\dist\\CODE90_standalone.html"
+    - "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\output\\pdf\\CODE90_프로그래밍기능사_웹학습도구_포트폴리오.pdf"
+  source_evidence:
+    - "C:\\Users\\User\\Documents\\카카오톡 받은 파일\\프로그래밍 기능사.pdf"
+    - "https://www.q-net.or.kr/crf005.do?gId=&gSite=Q&id=crf00503s02&jmCd=6921&jmInfoDivCcd=B0"
+    - "C:\\Users\\User\\Documents\\Codex\\2026-08-31\\new-chat\\projects\\programming-cert-practical-study-tool\\test\\core.test.mjs"
+  expected_facts:
+    - "총 50문제"
+    - "SQL 20·Python 10·Java 10·Linux 10문제"
+    - "제한 시간 90분(5,400초)"
+    - "자동 테스트 4개 통과"
+    - "localStorage 자동 저장"
+    - "CSV·JSON·인쇄/PDF 결과 출력"
+  prohibited_claims:
+    - "공식 기출문제"
+    - "공식 문제은행"
+    - "합격 보장"
+    - "성적 향상 확인"
+    - "장기간 사용 완료"
+    - "실제 시험과 동일한 난도"
+    - "사용자 수 또는 공식 점수"
+
