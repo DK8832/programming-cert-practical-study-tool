@@ -1,0 +1,11 @@
+{
+  "name": "programming-cert-practical-study-tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build_standalone.mjs",
+    "test": "node --test"
+  }
+}
+
